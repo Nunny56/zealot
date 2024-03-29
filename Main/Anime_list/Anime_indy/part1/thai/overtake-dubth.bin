@@ -1,5 +1,5 @@
 {
-    "name": "Overtake!. โอเวอร์เทค! ตอนที่ 1-9 พากย์ไทย  ",
+    "name": "Overtake! โอเวอร์เทค! ตอนที่ 1-12 พากย์ไทย  ",
     "author": "",
     "info": "",
     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/03/Overtake.jpg?fit=495%2C660&ssl=1",
@@ -72,6 +72,27 @@
             "info": "",
             "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/03/Overtake.jpg?fit=495%2C660&ssl=1",
             "url": "https://indy.team-indy.tech:8443/vid/EfPePYI8ex/video.mp4/playlist.m3u8",
+            "referer": "https://indy.team-indy.net/"
+        },
+        {
+            "name": "ตอนที่ 10 พากย์ไทย",
+            "info": "",
+            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/03/Overtake.jpg?fit=495%2C660&ssl=1",
+            "url": "https://indy.team-indy.tech:8443/vid/6LG6QBCL6A/video.mp4/playlist.m3u8",
+            "referer": "https://indy.team-indy.net/"
+        },
+        {
+            "name": "ตอนที่ 11 พากย์ไทย",
+            "info": "",
+            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/03/Overtake.jpg?fit=495%2C660&ssl=1",
+            "url": "https://indy.team-indy.tech:8443/vid/QM5IjYdLOp/video.mp4/playlist.m3u8",
+            "referer": "https://indy.team-indy.net/"
+        },
+        {
+            "name": "ตอนที่ 12 พากย์ไทย",
+            "info": "",
+            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/03/Overtake.jpg?fit=495%2C660&ssl=1",
+            "url": "https://indy.team-indy.tech:8443/vid/9heReffT56/video.mp4/playlist.m3u8",
             "referer": "https://indy.team-indy.net/"
         }
     ]
