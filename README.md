@@ -1,1 +1,1 @@
-# zealot
+zealot
